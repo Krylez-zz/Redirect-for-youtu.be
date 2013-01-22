@@ -2,6 +2,7 @@ Introduction
 ------------
 It's really irritating that the Youtube app doesn't handle their own 
 short URLs. This app expands them and hands them back to the OS.
+[Google Play](https://play.google.com/store/apps/details?id=com.rileybrewer.yturlfix)
 
 Getting Started
 ---------------
@@ -27,5 +28,5 @@ limitations under the License.
 
 Credits
 -------
-“Television” symbol by Travis Yunis, from thenounproject.com collection.
+"Television" symbol by Travis Yunis, from thenounproject.com collection.
 EBU Colorbars.svg image by Joghurt, from Wikimedia Commons.
